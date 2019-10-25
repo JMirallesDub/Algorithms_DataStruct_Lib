@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BubbleSort\Sorting_Algorithms.csproj" />
+    <ProjectReference Include="..\List\List.csproj" />
   </ItemGroup>
 
 </Project>
